@@ -1,0 +1,47 @@
+.header{
+    color:blueviolet;
+    border:double;
+    display:flex;
+    justify-content:center;
+    background-color: chartreuse;
+}
+
+.origami1{
+    color:black;
+    border:double;
+    display:flex;
+    justify-content:center;
+    background-color: red;
+}
+
+.origami2{
+    color:black;
+    border:double;
+    display:flex;
+    justify-content:center;
+    background-color: gold;
+}
+
+.origami3{
+    color:black;
+    border:double;
+    display:flex;
+    justify-content:center;
+    background-color: greenyellow;
+}
+
+.origami4{
+    color:black;
+    border:double;
+    display:flex;
+    justify-content:center;
+    background-color: cyan;
+}
+
+.origami5{
+    color:black;
+    border:double;
+    display:flex;
+    justify-content:center;
+    background-color: orange;
+}
